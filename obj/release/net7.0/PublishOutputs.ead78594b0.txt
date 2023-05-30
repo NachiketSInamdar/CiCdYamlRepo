@@ -1,0 +1,7 @@
+C:\Nachiket\CiCdYamlRepo\bin\release\net7.0\publish\CiCdYamlRepo.exe
+C:\Nachiket\CiCdYamlRepo\bin\release\net7.0\publish\appsettings.Development.json
+C:\Nachiket\CiCdYamlRepo\bin\release\net7.0\publish\appsettings.json
+C:\Nachiket\CiCdYamlRepo\bin\release\net7.0\publish\CiCdYamlRepo.dll
+C:\Nachiket\CiCdYamlRepo\bin\release\net7.0\publish\CiCdYamlRepo.deps.json
+C:\Nachiket\CiCdYamlRepo\bin\release\net7.0\publish\CiCdYamlRepo.runtimeconfig.json
+C:\Nachiket\CiCdYamlRepo\bin\release\net7.0\publish\CiCdYamlRepo.pdb
